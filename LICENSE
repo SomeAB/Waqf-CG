@@ -1,0 +1,59 @@
+CERN Open Hardware Licence Version 2 – Weakly Reciprocal
+
+1. Definitions
+
+In this Licence, the following terms have the following meanings:
+
+- Licence means this CERN OHL Weakly Reciprocal version 2.0.
+- Documentation means schematic diagrams, designs, circuit or circuit board layouts, mechanical drawings, flow charts, and descriptive texts, as well as other explanatory material relating to the Development, regardless of the medium in which they are stored (including in electronic form).
+- Development means the hardware, whether in physical or electronic form, described in the Documentation, and any modification to it, made in compliance with this Licence.
+- Product means any device incorporating or relying on the Development or any part of it.
+- Licensee means the recipient of the Documentation.
+- Licensor means any person who creates or modifies Documentation and subsequently conveys it under the terms of this Licence.
+
+2. Applicability
+
+This Licence applies to Documentation or Development which contains a notice placed by the Licensor stating that it is subject to the CERN OHL Weakly Reciprocal version 2.0.
+
+3. Copying, Modifying and Conveying Documentation
+
+Permission is granted to copy, modify and convey the Documentation, in whole or in part, provided that the following conditions are met:
+
+a) Preservation of Licence text: You must keep intact all notices stating that this Licence applies to the Documentation, ensuring that any copies that you convey carry that same notice.
+
+b) Preservation of notices: If the Documentation contains notices regarding licences or authorship, you must include these notices in any copy or modified version you convey.
+
+c) Modification notices: You must include a notice stating that you have modified the Documentation, along with the date and brief description of the modification.
+
+d) Variant: If you modify the Documentation you may, but are not required to, apply this Licence to your modifications. If you do not, you must ensure that your modifications carry a notice saying that your modifications are not covered by this Licence and provide a link to where the original Documentation can be obtained.
+
+e) No further restrictions: You must not impose any further restrictions on the exercise of the rights granted under this Licence.
+
+You may make a Product using the Documentation or Development and sell, loan, rent or otherwise convey that Product, but you must ensure that any Licensee can access the Documentation as described in section 4.
+
+4. Protecting Availability of Source Documentation
+
+You must take reasonable steps to ensure that the Documentation is available to any Licensee who receives a Product from you which contains, or relies on, the Development, for at least three years after the date you last conveyed said Product. You may meet this obligation by providing an Internet address where the Documentation can be accessed, or by other suitable means.
+
+5. Patent Licensing
+
+If you own or control a patent, and
+a) the making, using, selling, renting or conveying of a Development would, in the absence of a patent licence, infringe one or more claims of that patent, or
+b) you contribute to or modify the Documentation or Development,
+then you grant a perpetual, worldwide, royalty-free, non-exclusive licence to all recipients of the Documentation or Development, to use that patent to the extent necessary to make, have made, use, sell, have sold, offer to sell, have offered to sell, import and have imported the Development and Products incorporating the Development.
+
+6. Disclaimer and Liability
+
+a) Disclaimer of Warranty: The Documentation and any Development are provided "as is", without warranty of any kind, either express or implied, including but not limited to warranties of non-infringement, merchantability or fitness for a particular purpose.
+
+b) Limitation of Liability: To the maximum extent permitted by applicable law, in no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as in the case of deliberate and grossly negligent acts) or agreed to in writing, shall any Licensor be liable to you for damages, including any direct, indirect, special, incidental or consequential damages of any character arising as a result of this Licence or out of the use or inability to use the Documentation or any Development.
+
+7. General
+
+If any provision of this Licence is held to be invalid, illegal or unenforceable, such provision shall not affect the validity or enforceability of any other provision. The Licence is governed by the laws of Switzerland.
+
+---
+
+This file contains the text of the CERN Open Hardware Licence Version 2 – Weakly Reciprocal (CERN-OHL-W-2.0).
+
+Authoritative source: https://cern-ohl.web.cern.ch/sites/cern-ohl.web.cern.ch/files/2020-08/cern-ohl-w-2.0.txt
